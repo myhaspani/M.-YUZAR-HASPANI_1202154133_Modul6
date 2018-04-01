@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432664873009",
+    "firebase_url": "https://myuzarhaspani1202154133modul6.firebaseio.com",
+    "project_id": "myuzarhaspani1202154133modul6",
+    "storage_bucket": "myuzarhaspani1202154133modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432664873009:android:1c111ae0a927f54d",
+        "android_client_info": {
+          "package_name": "com.example.haspani.myuzarhaspani_1202154133_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432664873009-rda01og9l94a07sfknjeni9c08bg8jsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haspani.myuzarhaspani_1202154133_modul6",
+            "certificate_hash": "ab46bccb44cbf12ff53ba3a40e0e0c4eb21db37e"
+          }
+        },
+        {
+          "client_id": "432664873009-8fekcn1eor35akn595n1i1nshldvavob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7reuTf0Gz5DKHB0hDrBvqbQCa2Pj9feo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432664873009-8fekcn1eor35akn595n1i1nshldvavob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
